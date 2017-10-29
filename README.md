@@ -1,24 +1,26 @@
-# README
+# Vuk
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Vuk is a volunteer marketplace bringing together organisations with tasks needing completion, and volunteers willing to take on those tasks!
 
-Things you may want to cover:
+The name `Vuk` comes from an abbreviation of the word `volunteer` and a play on the Arabic work for marketplace, `suq` (or `shuk`, `souq` or `souk`).
 
-* Ruby version
+## MVP Features
 
-* System dependencies
+- Organisation makes a profile
+- Volunteer makes a profile
+- Organisation posts a task
+- Volunteer applies for a task
+- Organisation accepts volunteer’s application
+- Organisation rejects volunteer’s application
+- Organisation withdraws the task
+- Organisation marks the task as completed
+- Organisation rates and reviews the volunteer
+- Volunteer rates and reviews the organisation
 
-* Configuration
 
-* Database creation
+## Nice-to-have
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Organisation is verified
+- Volunteer is verified
+- Tasks can be shared on Facebook/ linkedin/ other social media
+- Tasks can be emailed
